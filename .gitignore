@@ -1,0 +1,21 @@
+# documents (report / slides)
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+
+# editor settings
+.idea/
+.vscode/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
